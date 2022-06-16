@@ -25,6 +25,9 @@
       <module fileurl="file://$PROJECT_DIR$/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/StringBuilder/StringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringExamples/StringExamples.iml" filepath="$PROJECT_DIR$/StringExamples/StringExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringLab/StringLab.iml" filepath="$PROJECT_DIR$/StringLab/StringLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch Break/Switch Break.iml" filepath="$PROJECT_DIR$/Switch Break/Switch Break.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchKosulu/SwitchKosulu.iml" filepath="$PROJECT_DIR$/SwitchKosulu/SwitchKosulu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchKosuluLab/SwitchKosuluLab.iml" filepath="$PROJECT_DIR$/SwitchKosuluLab/SwitchKosuluLab.iml" />
     </modules>
   </component>
 </project>
