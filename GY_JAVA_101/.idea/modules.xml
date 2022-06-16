@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algoritmalar/Algoritmalar.iml" filepath="$PROJECT_DIR$/Algoritmalar/Algoritmalar.iml" />
       <module fileurl="file://$PROJECT_DIR$/AritmetikselOperatorler/AritmetikselOperatorler.iml" filepath="$PROJECT_DIR$/AritmetikselOperatorler/AritmetikselOperatorler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Degiskenler/Degiskenler.iml" filepath="$PROJECT_DIR$/Degiskenler/Degiskenler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Diziler/Diziler.iml" filepath="$PROJECT_DIR$/Diziler/Diziler.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Do While/Do While.iml" filepath="$PROJECT_DIR$/Do While/Do While.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enumerations/Enumerations.iml" filepath="$PROJECT_DIR$/Enumerations/Enumerations.iml" />
       <module fileurl="file://$PROJECT_DIR$/For Dongusu/For Dongusu.iml" filepath="$PROJECT_DIR$/For Dongusu/For Dongusu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForEach/ForEach.iml" filepath="$PROJECT_DIR$/ForEach/ForEach.iml" />
       <module fileurl="file://$PROJECT_DIR$/GY_JAVA_101.iml" filepath="$PROJECT_DIR$/GY_JAVA_101.iml" />
       <module fileurl="file://$PROJECT_DIR$/If Blogu Lab/If Blogu Lab.iml" filepath="$PROJECT_DIR$/If Blogu Lab/If Blogu Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/IfBlogu/IfBlogu.iml" filepath="$PROJECT_DIR$/IfBlogu/IfBlogu.iml" />
