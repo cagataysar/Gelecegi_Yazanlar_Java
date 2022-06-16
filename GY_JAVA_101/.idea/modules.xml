@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AritmetikselOperatorler/AritmetikselOperatorler.iml" filepath="$PROJECT_DIR$/AritmetikselOperatorler/AritmetikselOperatorler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Degiskenler/Degiskenler.iml" filepath="$PROJECT_DIR$/Degiskenler/Degiskenler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diziler/Diziler.iml" filepath="$PROJECT_DIR$/Diziler/Diziler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diziler-2/Diziler-2.iml" filepath="$PROJECT_DIR$/Diziler-2/Diziler-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diziler-Lab/Diziler-Lab.iml" filepath="$PROJECT_DIR$/Diziler-Lab/Diziler-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enumerations/Enumerations.iml" filepath="$PROJECT_DIR$/Enumerations/Enumerations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GY_JAVA_101.iml" filepath="$PROJECT_DIR$/GY_JAVA_101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/If Blogu Lab/If Blogu Lab.iml" filepath="$PROJECT_DIR$/If Blogu Lab/If Blogu Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfBlogu/IfBlogu.iml" filepath="$PROJECT_DIR$/IfBlogu/IfBlogu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ifadeler/Ifadeler.iml" filepath="$PROJECT_DIR$/Ifadeler/Ifadeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IliskiselOperatorLab/IliskiselOperatorLab.iml" filepath="$PROJECT_DIR$/IliskiselOperatorLab/IliskiselOperatorLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IliskiselOperatorler/IliskiselOperatorler.iml" filepath="$PROJECT_DIR$/IliskiselOperatorler/IliskiselOperatorler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KosulOperatorLab/KosulOperatorLab.iml" filepath="$PROJECT_DIR$/KosulOperatorLab/KosulOperatorLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KosulOperatoru/KosulOperatoru.iml" filepath="$PROJECT_DIR$/KosulOperatoru/KosulOperatoru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MantiksalOperatorLab/MantiksalOperatorLab.iml" filepath="$PROJECT_DIR$/MantiksalOperatorLab/MantiksalOperatorLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MantiksalOperatorler/MantiksalOperatorler.iml" filepath="$PROJECT_DIR$/MantiksalOperatorler/MantiksalOperatorler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperatorOncelik/OperatorOncelik.iml" filepath="$PROJECT_DIR$/OperatorOncelik/OperatorOncelik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operatorler ve Ifadeler/Operatorler ve Ifadeler.iml" filepath="$PROJECT_DIR$/Operatorler ve Ifadeler/Operatorler ve Ifadeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static Degiskenler/Static Degiskenler.iml" filepath="$PROJECT_DIR$/Static Degiskenler/Static Degiskenler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static-Lab/Static-Lab.iml" filepath="$PROJECT_DIR$/Static-Lab/Static-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/StringBuilder/StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringExamples/StringExamples.iml" filepath="$PROJECT_DIR$/StringExamples/StringExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringLab/StringLab.iml" filepath="$PROJECT_DIR$/StringLab/StringLab.iml" />
+    </modules>
+  </component>
+</project>
