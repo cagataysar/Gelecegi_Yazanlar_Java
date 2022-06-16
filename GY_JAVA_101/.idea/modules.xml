@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Diziler/Diziler.iml" filepath="$PROJECT_DIR$/Diziler/Diziler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Diziler-2/Diziler-2.iml" filepath="$PROJECT_DIR$/Diziler-2/Diziler-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Diziler-Lab/Diziler-Lab.iml" filepath="$PROJECT_DIR$/Diziler-Lab/Diziler-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Do While/Do While.iml" filepath="$PROJECT_DIR$/Do While/Do While.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enumerations/Enumerations.iml" filepath="$PROJECT_DIR$/Enumerations/Enumerations.iml" />
       <module fileurl="file://$PROJECT_DIR$/GY_JAVA_101.iml" filepath="$PROJECT_DIR$/GY_JAVA_101.iml" />
       <module fileurl="file://$PROJECT_DIR$/If Blogu Lab/If Blogu Lab.iml" filepath="$PROJECT_DIR$/If Blogu Lab/If Blogu Lab.iml" />
@@ -28,6 +29,8 @@
       <module fileurl="file://$PROJECT_DIR$/Switch Break/Switch Break.iml" filepath="$PROJECT_DIR$/Switch Break/Switch Break.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwitchKosulu/SwitchKosulu.iml" filepath="$PROJECT_DIR$/SwitchKosulu/SwitchKosulu.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwitchKosuluLab/SwitchKosuluLab.iml" filepath="$PROJECT_DIR$/SwitchKosuluLab/SwitchKosuluLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While Dongusu/While Dongusu.iml" filepath="$PROJECT_DIR$/While Dongusu/While Dongusu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While Lab/While Lab.iml" filepath="$PROJECT_DIR$/While Lab/While Lab.iml" />
     </modules>
   </component>
 </project>
