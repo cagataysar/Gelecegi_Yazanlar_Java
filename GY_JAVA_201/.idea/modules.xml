@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GY_JAVA_201.iml" filepath="$PROJECT_DIR$/GY_JAVA_201.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metot Adlandirmalari/Metot Adlandirmalari.iml" filepath="$PROJECT_DIR$/Metot Adlandirmalari/Metot Adlandirmalari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metot Tanimlama/Metot Tanimlama.iml" filepath="$PROJECT_DIR$/Metot Tanimlama/Metot Tanimlama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metotlar/Metotlar.iml" filepath="$PROJECT_DIR$/Metotlar/Metotlar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Statik Metotlar/Statik Metotlar.iml" filepath="$PROJECT_DIR$/Statik Metotlar/Statik Metotlar.iml" />
     </modules>
   </component>
 </project>
