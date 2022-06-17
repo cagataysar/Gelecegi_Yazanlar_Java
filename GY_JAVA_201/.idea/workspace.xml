@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="469a4f83-7da3-44e4-b122-d5b3aa4921a3" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/Metot Adlandirmalari/Metot Adlandirmalari.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metot Adlandirmalari/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metot Tanimlama/Metot Tanimlama.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metot Tanimlama/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metot Tanimlama/src/HesapMakinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statik Metotlar/src/Driver.java" afterDir="false" />
+    <list default="true" id="469a4f83-7da3-44e4-b122-d5b3aa4921a3" name="Changes" comment="new files added">
+      <change afterPath="$PROJECT_DIR$/MetotlarLab/src/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Metotlar/src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Metotlar/src/Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +40,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "16",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
@@ -54,7 +47,7 @@
     "settings.editor.selected.configurable": "debugger.dataViews"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Driver (3)">
+  <component name="RunManager" selected="Application.Driver (4)">
     <configuration name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
       <module name="Metot Adlandirmalari" />
@@ -76,6 +69,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Driver (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="MetotlarLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
       <module name="Metotlar" />
@@ -85,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Driver (4)" />
         <item itemvalue="Application.Driver (3)" />
         <item itemvalue="Application.Driver (2)" />
         <item itemvalue="Application.Driver (1)" />
@@ -108,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655412086186</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new files added">
+      <created>1655477688528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655477688528</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new files added">
+      <created>1655477705616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655477705616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +169,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="new files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
