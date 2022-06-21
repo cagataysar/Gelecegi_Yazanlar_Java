@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="469a4f83-7da3-44e4-b122-d5b3aa4921a3" name="Changes" comment="new files added">
-      <change afterPath="$PROJECT_DIR$/MetotlarLab/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructor Metotlar/Constructor Metotlar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructor Metotlar/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructor Metotlar/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metot Parametreleri Lab/Metot Parametreleri Lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metot Parametreleri Lab/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metot Parametreleri Lab/src/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metot Parametreleri/Metot Parametreleri.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metot Parametreleri/src/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -26,6 +33,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://C:/Program Files/Java/jdk-16.0.1/lib/src.zip!/java.base/java/lang/Math.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Metot Parametreleri Lab/src/Driver.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Metot Parametreleri Lab/src/Ogrenci.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,28 +45,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "16",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "debugger.dataViews"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;16&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;debugger.dataViews&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Driver (4)">
+}</component>
+  <component name="RunManager" selected="Application.Driver (1)">
     <configuration name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
-      <module name="Metot Adlandirmalari" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Driver (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Driver" />
-      <module name="Metot Tanimlama" />
+      <module name="Constructor Metotlar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,20 +79,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Driver (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="Metot Parametreleri" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
-      <module name="Metotlar" />
+      <module name="Metot Parametreleri Lab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Driver (4)" />
-        <item itemvalue="Application.Driver (3)" />
-        <item itemvalue="Application.Driver (2)" />
         <item itemvalue="Application.Driver (1)" />
         <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.Driver (5)" />
+        <item itemvalue="Application.Driver (4)" />
+        <item itemvalue="Application.Driver (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655477705616</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new files added">
+      <created>1655489829500</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655489829500</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new files added">
+      <created>1655489863389</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655489863389</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
