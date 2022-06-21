@@ -4,27 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="469a4f83-7da3-44e4-b122-d5b3aa4921a3" name="Changes" comment="Yapıcı metotlar işlendi">
-      <change afterPath="$PROJECT_DIR$/Sinif-Uye Degiskenleri/Sinif-Uye Degiskenleri.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sinif-Uye Degiskenleri/src/Bisiklet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sinif-Uye Degiskenleri/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sinif-Uye Degiskenleri/untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sinif-Uye Degsikenler 2/Sinif-Uye Degsikenler 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sinif-Uye Degsikenler 2/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sinif-Uye Degsikenler 2/src/Oyuncu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Siniflar Lab/Siniflar Lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Siniflar Lab/src/Boyut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Siniflar Lab/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Siniflar Lab/src/Kalem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Siniflar Lab/src/Kopek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Siniflar Lab/src/Renk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Siniflar Lab/src/Telefon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Siniflar Lab/src/TelefonTipi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Siniflar ve Nesneler/Siniflar ve Nesneler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Siniflar ve Nesneler/src/Daire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Siniflar ve Nesneler/src/Driver.java" afterDir="false" />
+    <list default="true" id="469a4f83-7da3-44e4-b122-d5b3aa4921a3" name="Changes" comment="Sınıflar işlendi">
+      <change afterPath="$PROJECT_DIR$/Erisim Kontrolu/Erisim Kontrolu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Erisim Kontrolu/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Erisim Kontrolu/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Erisim Kontrolu/src/com/example/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POJO Siniflari/POJO Siniflari.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POJO Siniflari/src/Calisan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POJO Siniflari/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POJO Siniflari/src/Kare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siniflar Lab/src/Renk.java" beforeDir="false" afterPath="$PROJECT_DIR$/Siniflar Lab/src/Renk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -73,17 +64,10 @@
       <recent name="D:\java_workspace\GY_JAVA_201\Siniflar ve Nesneler\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Driver (5)">
+  <component name="RunManager" selected="Application.Driver (1)">
     <configuration name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
-      <module name="Constructor Metotlar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Driver (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Driver" />
-      <module name="Siniflar ve Nesneler" />
+      <module name="POJO Siniflari" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,13 +93,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="Erisim Kontrolu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Driver (1)" />
+        <item itemvalue="Application.Driver" />
         <item itemvalue="Application.Driver (5)" />
         <item itemvalue="Application.Driver (4)" />
         <item itemvalue="Application.Driver (3)" />
-        <item itemvalue="Application.Driver (2)" />
-        <item itemvalue="Application.Driver (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655799826924</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Sınıflar işlendi">
+      <created>1655833276140</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655833276140</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Sınıflar işlendi">
+      <created>1655833291023</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655833291023</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +230,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="new files added" />
     <MESSAGE value="Yapıcı metotlar işlendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Yapıcı metotlar işlendi" />
+    <MESSAGE value="Sınıflar işlendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sınıflar işlendi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

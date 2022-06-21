@@ -1,4 +1,4 @@
 public enum Renk {
 
-    BEYAZ, SıYAH, SARI, KAHVERENGİ
+    BEYAZ, SİYAH, SARI, KAHVERENGİ
 }

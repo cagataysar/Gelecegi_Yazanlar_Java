@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Constructor Metotlar/Constructor Metotlar.iml" filepath="$PROJECT_DIR$/Constructor Metotlar/Constructor Metotlar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Erisim Kontrolu/Erisim Kontrolu.iml" filepath="$PROJECT_DIR$/Erisim Kontrolu/Erisim Kontrolu.iml" />
       <module fileurl="file://$PROJECT_DIR$/GY_JAVA_201.iml" filepath="$PROJECT_DIR$/GY_JAVA_201.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metot Adlandirmalari/Metot Adlandirmalari.iml" filepath="$PROJECT_DIR$/Metot Adlandirmalari/Metot Adlandirmalari.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metot Parametreleri/Metot Parametreleri.iml" filepath="$PROJECT_DIR$/Metot Parametreleri/Metot Parametreleri.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Metot Tanimlama/Metot Tanimlama.iml" filepath="$PROJECT_DIR$/Metot Tanimlama/Metot Tanimlama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metotlar/Metotlar.iml" filepath="$PROJECT_DIR$/Metotlar/Metotlar.iml" />
       <module fileurl="file://$PROJECT_DIR$/MetotlarLab/MetotlarLab.iml" filepath="$PROJECT_DIR$/MetotlarLab/MetotlarLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POJO Siniflari/POJO Siniflari.iml" filepath="$PROJECT_DIR$/POJO Siniflari/POJO Siniflari.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sinif-Uye Degiskenleri/Sinif-Uye Degiskenleri.iml" filepath="$PROJECT_DIR$/Sinif-Uye Degiskenleri/Sinif-Uye Degiskenleri.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sinif-Uye Degsikenler 2/Sinif-Uye Degsikenler 2.iml" filepath="$PROJECT_DIR$/Sinif-Uye Degsikenler 2/Sinif-Uye Degsikenler 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Siniflar Lab/Siniflar Lab.iml" filepath="$PROJECT_DIR$/Siniflar Lab/Siniflar Lab.iml" />
