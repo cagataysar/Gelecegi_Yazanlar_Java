@@ -4,18 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="469a4f83-7da3-44e4-b122-d5b3aa4921a3" name="Changes" comment="Sınıflar işlendi">
-      <change afterPath="$PROJECT_DIR$/Erisim Kontrolu/Erisim Kontrolu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Erisim Kontrolu/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Erisim Kontrolu/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Erisim Kontrolu/src/com/example/Araba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POJO Siniflari/POJO Siniflari.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POJO Siniflari/src/Calisan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POJO Siniflari/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POJO Siniflari/src/Kare.java" afterDir="false" />
+    <list default="true" id="469a4f83-7da3-44e4-b122-d5b3aa4921a3" name="Changes" comment="Erişim kontrolü konusu işlendi">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim Yapici Metotlar/Kalitim Yapici Metotlar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim Yapici Metotlar/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim Yapici Metotlar/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim Yapici Metotlar/src/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim Yapici Metotlar/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim-Inheritance/Kalitim-Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim-Inheritance/src/Daire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim-Inheritance/src/Dikdortgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim-Inheritance/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim-Inheritance/src/Kare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim-Inheritance/src/Sekil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance 2/Kalitim_Inheritance 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance 2/src/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance 2/src/Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance 2/src/Bisiklet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance 2/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance 2/src/NakliyeAraci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance 2/src/Otobus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance 2/src/Tir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance Lab/Kalitim_Inheritance Lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance Lab/src/Doktor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance Lab/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance Lab/src/Kisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance Lab/src/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance Lab/src/Ogretmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalitim_Inheritance Lab/src/UniversiteOgrencisi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Siniflar Lab/src/Renk.java" beforeDir="false" afterPath="$PROJECT_DIR$/Siniflar Lab/src/Renk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POJO Siniflari/POJO Siniflari.iml" beforeDir="false" afterPath="$PROJECT_DIR$/POJO Siniflari/POJO Siniflari.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POJO Siniflari/src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/POJO Siniflari/src/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POJO Siniflari/src/Kare.java" beforeDir="false" afterPath="$PROJECT_DIR$/POJO Siniflari/src/Kare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POJO Siniflari/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POJO Siniflari/Driver.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +78,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;debugger.dataViews&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -64,7 +86,7 @@
       <recent name="D:\java_workspace\GY_JAVA_201\Siniflar ve Nesneler\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Driver (1)">
+  <component name="RunManager" selected="Application.Driver (4)">
     <configuration name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
       <module name="POJO Siniflari" />
@@ -72,23 +94,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Driver (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="Kalitim-Inheritance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Driver (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
-      <module name="Sinif-Uye Degiskenleri" />
+      <module name="Kalitim_Inheritance Lab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Driver (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
-      <module name="Sinif-Uye Degsikenler 2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Driver (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Driver" />
-      <module name="Siniflar Lab" />
+      <module name="Kalitim Yapici Metotlar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Driver (1)" />
-        <item itemvalue="Application.Driver" />
-        <item itemvalue="Application.Driver (5)" />
         <item itemvalue="Application.Driver (4)" />
         <item itemvalue="Application.Driver (3)" />
+        <item itemvalue="Application.Driver (2)" />
+        <item itemvalue="Application.Driver (1)" />
+        <item itemvalue="Application.Driver" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655833291023</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Erişim kontrolü konusu işlendi">
+      <created>1655844568849</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655844568849</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Erişim kontrolü konusu işlendi">
+      <created>1655844579121</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655844579121</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,7 +267,8 @@
     <MESSAGE value="new files added" />
     <MESSAGE value="Yapıcı metotlar işlendi" />
     <MESSAGE value="Sınıflar işlendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sınıflar işlendi" />
+    <MESSAGE value="Erişim kontrolü konusu işlendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Erişim kontrolü konusu işlendi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -239,7 +276,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Metot Adlandirmalari/src/Driver.java</url>
           <line>8</line>
-          <properties class="Driver" method="topla">
+          <properties class="Driver">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
