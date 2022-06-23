@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Constructor Metotlar/Constructor Metotlar.iml" filepath="$PROJECT_DIR$/Constructor Metotlar/Constructor Metotlar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Erisim Kontrolu/Erisim Kontrolu.iml" filepath="$PROJECT_DIR$/Erisim Kontrolu/Erisim Kontrolu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Ornek/Final Ornek.iml" filepath="$PROJECT_DIR$/Final Ornek/Final Ornek.iml" />
       <module fileurl="file://$PROJECT_DIR$/GY_JAVA_201.iml" filepath="$PROJECT_DIR$/GY_JAVA_201.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kalitim Yapici Metotlar/Kalitim Yapici Metotlar.iml" filepath="$PROJECT_DIR$/Kalitim Yapici Metotlar/Kalitim Yapici Metotlar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kalitim-Inheritance/Kalitim-Inheritance.iml" filepath="$PROJECT_DIR$/Kalitim-Inheritance/Kalitim-Inheritance.iml" />
@@ -16,6 +17,11 @@
       <module fileurl="file://$PROJECT_DIR$/Metotlar/Metotlar.iml" filepath="$PROJECT_DIR$/Metotlar/Metotlar.iml" />
       <module fileurl="file://$PROJECT_DIR$/MetotlarLab/MetotlarLab.iml" filepath="$PROJECT_DIR$/MetotlarLab/MetotlarLab.iml" />
       <module fileurl="file://$PROJECT_DIR$/POJO Siniflari/POJO Siniflari.iml" filepath="$PROJECT_DIR$/POJO Siniflari/POJO Siniflari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism Lab/Polymorphism Lab.iml" filepath="$PROJECT_DIR$/Polymorphism Lab/Polymorphism Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism-Cok Bicimlilik/Polymorphism-Cok Bicimlilik.iml" filepath="$PROJECT_DIR$/Polymorphism-Cok Bicimlilik/Polymorphism-Cok Bicimlilik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism-Cok Bicimlilik 2/Polymorphism-Cok Bicimlilik 2.iml" filepath="$PROJECT_DIR$/Polymorphism-Cok Bicimlilik 2/Polymorphism-Cok Bicimlilik 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism-Cok Bicimlilik 3/Polymorphism-Cok Bicimlilik 3.iml" filepath="$PROJECT_DIR$/Polymorphism-Cok Bicimlilik 3/Polymorphism-Cok Bicimlilik 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism-Cok Bicimlilik 4/Polymorphism-Cok Bicimlilik 4.iml" filepath="$PROJECT_DIR$/Polymorphism-Cok Bicimlilik 4/Polymorphism-Cok Bicimlilik 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sinif-Uye Degiskenleri/Sinif-Uye Degiskenleri.iml" filepath="$PROJECT_DIR$/Sinif-Uye Degiskenleri/Sinif-Uye Degiskenleri.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sinif-Uye Degsikenler 2/Sinif-Uye Degsikenler 2.iml" filepath="$PROJECT_DIR$/Sinif-Uye Degsikenler 2/Sinif-Uye Degsikenler 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Siniflar Lab/Siniflar Lab.iml" filepath="$PROJECT_DIR$/Siniflar Lab/Siniflar Lab.iml" />
