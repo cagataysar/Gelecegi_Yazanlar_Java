@@ -1,0 +1,4 @@
+public interface Yuzebilir {
+
+    void yuz(); //BURADA METOTLARIN BAŞINA PUBLİC ABSTRACT EKLENEBİLİR ANCAK BU VARSAYILAN OLARAK GELDİĞİ İÇİN GEREKLİ DEĞİLDİR.
+}
