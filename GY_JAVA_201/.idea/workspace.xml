@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="469a4f83-7da3-44e4-b122-d5b3aa4921a3" name="Changes" comment="Arayüz(Interface) konusu işlendi">
-      <change afterPath="$PROJECT_DIR$/Hata Yakalama Lab/Hata Yakalama Lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hata Yakalama Lab/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ozel Hatalar/Ozel Hatalar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ozel Hatalar/src/Daire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ozel Hatalar/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ozel Hatalar/src/HataliYaricap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Try Catch Lab/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Try Catch Lab/src/HataliDeger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Try Catch Lab/src/Isci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/throw/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/throw/throw.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="469a4f83-7da3-44e4-b122-d5b3aa4921a3" name="Changes" comment="Hatalar ve istisnalar konusu işlendi" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +41,6 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "16",
     "last_opened_file_path": "D:/java_workspace/GY_JAVA_201/Hata Yakalama Lab",
     "project.structure.last.edited": "Libraries",
@@ -259,7 +244,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656188070721</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Hatalar ve istisnalar konusu işlendi">
+      <created>1656331906160</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1656331906160</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Hatalar ve istisnalar konusu işlendi">
+      <created>1656331920153</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1656331920153</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,7 +311,8 @@
     <MESSAGE value="Kalıtım(Inheritance) konusu işlendi" />
     <MESSAGE value="Çok Biçimlilik(Polymorphism) konusu işlendi" />
     <MESSAGE value="Arayüz(Interface) konusu işlendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arayüz(Interface) konusu işlendi" />
+    <MESSAGE value="Hatalar ve istisnalar konusu işlendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hatalar ve istisnalar konusu işlendi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
