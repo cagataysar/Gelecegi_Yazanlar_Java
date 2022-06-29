@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Byte Kaynagi Okuma/Byte Kaynagi Okuma.iml" filepath="$PROJECT_DIR$/Byte Kaynagi Okuma/Byte Kaynagi Okuma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Char Dizisi Okuma/Char Dizisi Okuma.iml" filepath="$PROJECT_DIR$/Char Dizisi Okuma/Char Dizisi Okuma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dosya Akislari/Dosya Akislari.iml" filepath="$PROJECT_DIR$/Dosya Akislari/Dosya Akislari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File IO/File IO.iml" filepath="$PROJECT_DIR$/File IO/File IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File IO lab/File IO lab.iml" filepath="$PROJECT_DIR$/File IO lab/File IO lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File ve Path Siniflari/File ve Path Siniflari.iml" filepath="$PROJECT_DIR$/File ve Path Siniflari/File ve Path Siniflari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GY_JAVA_301.iml" filepath="$PROJECT_DIR$/GY_JAVA_301.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamWriter/StreamWriter.iml" filepath="$PROJECT_DIR$/StreamWriter/StreamWriter.iml" />
+    </modules>
+  </component>
+</project>
