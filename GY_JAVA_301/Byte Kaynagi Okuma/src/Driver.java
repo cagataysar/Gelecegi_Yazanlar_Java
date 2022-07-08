@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class Driver {
 
     public static void main(String[] args) {
-        File file = new File("C:\\Users\\sario\\Desktop\\splash.png");
+        File file = new File("C:\\Users\\sario\\Desktop\\Screenshot.png");
         if (file.exists()) {
             FileInputStream fileInputStream = null;
             try {

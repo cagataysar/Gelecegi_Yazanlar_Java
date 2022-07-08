@@ -7,7 +7,7 @@ public class Driver {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Dosya yolu: ");
+        System.out.print("Dosya yolu: ");
         String filePath = scanner.nextLine();
 
         File file = new File(filePath);
