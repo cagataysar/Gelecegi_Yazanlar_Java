@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BufferedReader/BufferedReader.iml" filepath="$PROJECT_DIR$/BufferedReader/BufferedReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/Byte Kaynagi Okuma/Byte Kaynagi Okuma.iml" filepath="$PROJECT_DIR$/Byte Kaynagi Okuma/Byte Kaynagi Okuma.iml" />
       <module fileurl="file://$PROJECT_DIR$/Char Dizisi Okuma/Char Dizisi Okuma.iml" filepath="$PROJECT_DIR$/Char Dizisi Okuma/Char Dizisi Okuma.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dosya Akislari/Dosya Akislari.iml" filepath="$PROJECT_DIR$/Dosya Akislari/Dosya Akislari.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/File ve Path Siniflari/File ve Path Siniflari.iml" filepath="$PROJECT_DIR$/File ve Path Siniflari/File ve Path Siniflari.iml" />
       <module fileurl="file://$PROJECT_DIR$/GY_JAVA_301.iml" filepath="$PROJECT_DIR$/GY_JAVA_301.iml" />
       <module fileurl="file://$PROJECT_DIR$/Input Output Stream/Input Output Stream.iml" filepath="$PROJECT_DIR$/Input Output Stream/Input Output Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remote File Lab/Remote File Lab.iml" filepath="$PROJECT_DIR$/Remote File Lab/Remote File Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamWriter/StreamWriter.iml" filepath="$PROJECT_DIR$/StreamWriter/StreamWriter.iml" />
     </modules>
   </component>
