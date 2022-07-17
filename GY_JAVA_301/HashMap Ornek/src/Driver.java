@@ -1,4 +1,6 @@
 import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Set;
 
 public class Driver {
 
@@ -9,6 +11,15 @@ public class Driver {
         hashMap.put("Araba", 22500.0);
 
         System.out.println(hashMap.size());
+
+        Set<String> keySet = hashMap.keySet();
+        Iterator<String> iterator = keySet.iterator();
+        while (iterator.hasNext()){
+            String key = iterator.next();
+            System.out.println(key);
+            System.out.println(hashMap.get(key));
+            System.out.println("---------------------");
+        }
 
     }
 }
